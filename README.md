@@ -1,6 +1,16 @@
 # Pattern.Demo
 Demo solutions illustrating pattern implementation
 
+## Solution building and running
+
+The demo solution is a console application built for .NET 7.0 target framework. Visual Studio 2022 was used to create.
+The solution should build without warnings. It runs with no command line arguments.
+
+The log is written into Console and log file, which can be found in:
+
+\PatternDemo\VisitingProfessor\bin\Debug\net7.0\Logs
+
+
 # Visiting Professor pattern
 
 This implementation pattern was developed for C++ and C# and used for some time. 
